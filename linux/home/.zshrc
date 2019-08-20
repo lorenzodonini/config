@@ -70,8 +70,8 @@ export SAVEHIST=$HISTSIZE
 
 plugins=(
   git
-  zsh-256color
-  zsh-syntax-highlighting
+  command-not-found
+  systemd
   virtualenv
   extract
 )
